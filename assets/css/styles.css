@@ -52,7 +52,7 @@ table {
 html { font-family: 'Roboto', sans-serif; }
 
 body {
-  padding: 50px;
+  padding: 30px;
   color: #1e1e21;
   background-color: #fbfcff;
 }
@@ -65,7 +65,7 @@ body {
 header {
   line-height: 36px;
   display: flex;
-  padding-bottom: 17.5vh;
+  padding-bottom: 12.5vh;
 }
 
 header .logo {
@@ -108,22 +108,48 @@ header a:active {
 
 h1 {
   font-weight: 800;
-  font-size: 4rem;
-  line-height: 4rem;
-  margin-bottom: calc(20vh - 4rem);
+  font-size: 2.75rem;
+  line-height: 2.75rem;
+  margin-bottom: calc(15vh - 3rem);
 }
 
 p {
-  font-size: 2rem;
+  font-size: 1.75rem;
   margin-bottom: calc(30vh - 4.5rem);
-  line-height: 2.5rem;
+  line-height: 2.25rem;
   max-width: 1000px;
 }
 
 a {
-  font-size: 2rem;
+  font-size: 1.75rem;
   font-weight: 500;
   text-decoration: underline;
   color: rgb(54, 51, 212);
   text-decoration-color: rgba(73, 70, 238, 0.3);
+}
+
+@media only screen and (min-width: 600px) {
+  body {
+    padding: 50px;
+  }
+  
+  header {
+    padding-bottom: 17.5vh;
+  }
+
+  h1 {
+    font-weight: 800;
+    font-size: 4rem;
+    line-height: 4rem;
+    margin-bottom: calc(20vh - 4rem);
+  }
+  
+  p {
+    font-size: 2rem;
+    line-height: 2.5rem;
+  }
+  
+  a {
+    font-size: 2rem;
+  }
 }
