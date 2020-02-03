@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400px" height="400px" viewBox="0 0 400 400" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>OFJ simpler logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="OFJ-simpler-logo">
+            <rect id="Rectangle" stroke-opacity="0.25" stroke="#4946EE" stroke-width="36" x="18" y="18" width="364" height="364" rx="160"></rect>
+            <rect id="Rectangle" stroke="#3633D4" stroke-width="40" x="45" y="45" width="310" height="310" rx="140"></rect>
+            <path d="M150,287 C150,287 150,240.115385 150,210.076923 C150,180.038462 169.115385,150 210.076923,150 C251.038462,150 287,150 287,150" id="Path-2-Copy-2" stroke="#3633D4" stroke-width="40" transform="translate(218.500000, 218.500000) rotate(-180.000000) translate(-218.500000, -218.500000) "></path>
+            <path d="M123,197 L207.999091,197" id="Line-Copy-2" stroke="#3633D4" stroke-width="40" stroke-linecap="square" transform="translate(165.500000, 197.000000) rotate(-180.000000) translate(-165.500000, -197.000000) "></path>
+            <path d="M113,250 L113,173.076923 C113,143.038462 132.115385,113 173.076923,113 L250,113" id="Path-2" stroke="#3633D4" stroke-width="40"></path>
+        </g>
+    </g>
+</svg>
