@@ -81,11 +81,9 @@ header a {
   display: inline-block;
   height: 36px;
   line-height: 36px;
-  font-size: 14px;
   color: white;
   background: rgb(54, 51, 212);
   border-radius: 5px;
-  padding: 0 16px;
   border: 0;
   text-transform: uppercase;
   font-weight: 500;
@@ -94,7 +92,9 @@ header a {
   cursor: pointer;
   transition: box-shadow .25s ease, background .25s ease;
   text-decoration: none;
-  margin-left: 14px;
+  font-size: 12px;
+  padding: 0 14px;
+  margin-left: 10px;
 }
 
 header a:hover {
@@ -155,8 +155,8 @@ a {
   }
 
   header a {
-    font-size: 12px;
-    padding: 0 14px;
-    margin-left: 10px;
+    font-size: 14px;
+    padding: 0 16px;
+    margin-left: 14px;  
   }
 }
